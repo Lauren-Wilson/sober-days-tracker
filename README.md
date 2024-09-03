@@ -19,7 +19,7 @@ Sobriety is a daily commitment, and every day is a milestone worth celebrating. 
 
 1. **Clone the Repository**: Download or clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/sober_days.git
+   git clone https://github.com/Lauren-Wilson/sober-days-tracker.git
    ```
 
 2. **Run the Script**: Navigate to the directory and run the Python script.
